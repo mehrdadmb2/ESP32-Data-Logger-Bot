@@ -1,0 +1,6 @@
+openpyxl
+telebot
+colorama
+requests
+matplotlib
+pandas
