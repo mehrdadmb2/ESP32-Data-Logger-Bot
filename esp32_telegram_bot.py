@@ -16,7 +16,7 @@ import asyncio
 init(autoreset=True)
 
 # توکن ربات تلگرام
-TELEGRAM_TOKEN = "5086035674:AAGcVY9JrK9CJceRwsHbwYmyhwUIK6WHtRM"
+TELEGRAM_TOKEN = "Your Telegram-Bot Token"
 # شناسه ادمین‌ها
 ADMIN_IDS = [381200758]  # به جای 123456789 شناسه ادمین‌ها را قرار دهید
 
